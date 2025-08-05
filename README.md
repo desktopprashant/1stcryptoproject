@@ -1,9 +1,8 @@
-# 💻 1stcryptoproject
+<h1>🚀 1stcryptoproject</h1>
 
-**I want to check how GitHub works**
+<p><strong>I want to check how GitHub works</strong></p>
 
----
+<hr/>
 
-### 👤 Author:
-**Aman Nishad**
-
+<h3>👤 Author:</h3>
+<p><strong>Aman Nishad</strong></p>
